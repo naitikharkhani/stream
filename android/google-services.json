@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526182522117",
+    "project_id": "isolatedemo-16313",
+    "storage_bucket": "isolatedemo-16313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526182522117:android:4e6a22ff6a7edf1ec4ab6c",
+        "android_client_info": {
+          "package_name": "com.humane.flutter_isolatedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526182522117-mc21eco5il3tpus99mimflto7jq2nu1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN3wHNjIOBHlaj_QwYM8lEK57Md2VerKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526182522117-mc21eco5il3tpus99mimflto7jq2nu1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
